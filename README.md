@@ -1,6 +1,6 @@
 # Template Go-Echo-HTMX-Tailwind
 
-Foobar is a Python library for dealing with word pluralization.
+This template is made to start a project with a structure based on Echo, Templ, HTMX and TailwindCSS.
 
 ## Installation
 
