@@ -1,3 +1,6 @@
 .env 
 .exe
 templates/*.go
+.mod
+.sum
+/.git
