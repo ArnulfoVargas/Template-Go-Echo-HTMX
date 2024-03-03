@@ -7,7 +7,7 @@ import (
 )
 
 func Handle(c *echo.Echo) {
-  c.GET("/hello", hello)
+  c.GET("/helloa", hello)
 }
 
 func hello(c echo.Context) error {
