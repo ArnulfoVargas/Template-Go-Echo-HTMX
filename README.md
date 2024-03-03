@@ -26,10 +26,6 @@ You can download the template using:
 ```bash
 git clone https://github.com/ArnulfoVargas/Template-Go-Echo-HTMX.git --branch v1.0
 ```
-Then make a cd to the project and generate the go mod file:
-```bash
-go mod init <your repo url>
-```
 
 ## Usage
 There's some Makefile commands to launch the server:
