@@ -45,7 +45,7 @@ make download
 make generate templ
 ```
 
-Now import the packages models and templates in ./handlers/handler.go and the package handlers in ./cmd/main.go, it should look like this:
+Now import the packages models and templates in `/handlers/handler.go` and the package handlers in `/cmd/main.go`, it should look like this:
 __handler.go__
 ```
 import (
@@ -71,6 +71,7 @@ Now run:
 ```
 make run
 ```
+
 ## Usage
 There's some Makefile commands to launch the server:
 
