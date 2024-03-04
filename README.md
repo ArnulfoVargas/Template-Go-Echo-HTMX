@@ -42,7 +42,7 @@ go mod init <name or repo url>
 Once you create you will need to call the following commands:
 ```
 make download
-make generate templ
+make templ
 ```
 
 Now import the packages models and templates in `/handlers/handler.go` and the package handlers in `/cmd/main.go`, it should look like this:
