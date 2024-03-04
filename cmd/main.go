@@ -4,7 +4,6 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ArnulfoVargas/Template-Go-Echo-HTMX/handlers"
 	"github.com/joho/godotenv"
 	"github.com/labstack/echo/v4"
 )
