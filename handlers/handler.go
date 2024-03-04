@@ -1,8 +1,6 @@
 package handlers
 
 import (
-	"github.com/ArnulfoVargas/Template-Go-Echo-HTMX/models"
-	"github.com/ArnulfoVargas/Template-Go-Echo-HTMX/templates"
 	"github.com/labstack/echo/v4"
 )
 
